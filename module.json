@@ -108,8 +108,8 @@
 	"version": "1.9.1",
 	"minimumCoreVersion": "0.7.5",
 	"compatibleCoreVersion": "9",
-	"url": "https://github.com/Astrotech89/ME5e-FoundryVTT",
-	"manifest": "https://github.com/Astrotech89/ME5e-FoundryVTT/blob/main/module.json",
-	"download": "https://github.com/Astrotech89/ME5e-FoundryVTT/blob/main/module.zip",
-	"readme": "https://github.com/Astrotech89/ME5e-FoundryVTT/blob/main/README.md"
+	"url": "https://github.com/joshisasoftie/ME5e-FoundryVTT",
+	"manifest": "https://github.com/joshisasoftie/ME5e-FoundryVTT/blob/main/module.json",
+	"download": "https://github.com/joshisasoftie/ME5e-FoundryVTT/blob/main/module.zip",
+	"readme": "https://github.com/joshisasoftie/ME5e-FoundryVTT/blob/main/README.md"
   }
